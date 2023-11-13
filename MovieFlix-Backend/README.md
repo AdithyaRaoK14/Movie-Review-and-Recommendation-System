@@ -75,9 +75,6 @@ If any error occurs during the API request handling, a 500 status code will be r
 
 Contributions are welcome! If you find any issues or want to enhance the API, feel free to open a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
