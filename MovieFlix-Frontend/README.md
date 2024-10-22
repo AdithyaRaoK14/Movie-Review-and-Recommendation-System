@@ -8,7 +8,6 @@ This application suggests movies based on genres selected using The Movie DB API
 
 Clone this repo – 
 
-    git clone https://github.com/zorgonide/movieflix.git
 
 Move into project directory **movieflix**
 
