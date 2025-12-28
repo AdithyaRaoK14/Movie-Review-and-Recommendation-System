@@ -1,7 +1,7 @@
 # MovieFlix API
 
 This API provides endpoints to manage movie ratings, comments, and watchlists. It allows users to rate movies, leave comments, and add movies to their watchlists.
-![image](https://github.com/zorgonide/movieflix-node/assets/48021258/a0103202-31b7-4511-88c2-fa33e3a9d85a)
+
 
 ### [Postman Documentation](https://documenter.getpostman.com/view/11815460/2s93zH2K7A)
 
